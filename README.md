@@ -38,24 +38,6 @@ An AI-powered Resume Analyzer that evaluates resumes like ATS (Applicant Trackin
 4. Calculates match score  
 5. Uses LLM to generate improvement suggestions  
 
----
-
-## 📁 Project Structure
-
-
-resume-analyzer/
-│
-├── app.py # Main Streamlit app
-├── ai_advisor.py # AI suggestions (Groq API)
-├── matcher.py # Skill matching logic
-├── nlp_engine.py # NLP extraction (spaCy)
-├── resume_parser.py # PDF/DOCX reader
-├── requirements.txt # Dependencies
-├── packages.txt # System packages
-└── README.md # Project documentation
-
-
----
 
 ## 🚀 Run Locally
 
