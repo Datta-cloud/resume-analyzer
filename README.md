@@ -17,6 +17,13 @@ An AI-powered Resume Analyzer that evaluates resumes like ATS (Applicant Trackin
 
 ---
 
+<img width="1865" height="715" alt="image" src="https://github.com/user-attachments/assets/a0724fda-24dd-4aaa-9921-0c68786df1c7" />
+
+<img width="1880" height="777" alt="image" src="https://github.com/user-attachments/assets/4b227392-9ff0-4f82-bf38-defd02a67f73" />
+
+<img width="1484" height="686" alt="image" src="https://github.com/user-attachments/assets/dc51a979-66ec-480e-aa0c-382aa9629e50" />
+
+
 ## 🧠 Tech Stack
 
 - **Frontend:** Streamlit
