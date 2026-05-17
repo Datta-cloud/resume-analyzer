@@ -39,6 +39,20 @@ An AI-powered Resume Analyzer that evaluates resumes like ATS (Applicant Trackin
 5. Uses LLM to generate improvement suggestions  
 
 
+## ❓ Why this project?
+
+Many resumes get rejected by ATS systems due to missing keywords.
+This tool helps users optimize resumes based on job descriptions.
+
+
+## ⚠️ Limitations
+
+- AI suggestions may not always be perfect
+- Depends on resume formatting
+- Not a replacement for human review
+
+  
+
 ## 🚀 Run Locally
 🎯 Future Improvements
 📄 Resume Auto-Improvement (Rewrite)
