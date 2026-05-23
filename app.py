@@ -34,7 +34,7 @@ with st.sidebar:
     4. See your match score & tips!
     """)
     st.divider()
-    st.caption("Built with Streamlit + spaCy + Claude AI")
+    st.caption("Built with Streamlit + spaCy")
 
 
 # ─── MAIN LAYOUT ─────────────────────────────────────────────────────────────────
